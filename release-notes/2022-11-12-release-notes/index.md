@@ -1,5 +1,5 @@
 ---
-slug: 2022-release-notes
+slug: 2022-11-release-notes
 title: Nov 2022, Release Notes
 authors: [codety]
 tags: [ ]

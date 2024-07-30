@@ -1,5 +1,5 @@
 ---
-slug: 2020-release-notes
+slug: 2020-08-release-notes
 title: Aug 2020, Release Notes
 authors: [codety]
 tags: [ ]
