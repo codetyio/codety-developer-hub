@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.codety.io/release-notes</id>
+    <title>Codety Developer Hub Blog</title>
+    <updated>2024-06-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.codety.io/release-notes"/>
+    <subtitle>Codety Developer Hub Blog</subtitle>
+    <icon>https://docs.codety.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jun 2024, Release Notes]]></title>
+        <id>https://docs.codety.io/release-notes/2024-06-release-notes</id>
+        <link href="https://docs.codety.io/release-notes/2024-06-release-notes"/>
+        <updated>2024-06-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Version 1.202.51]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120251">Version 1.202.51<a class="hash-link" aria-label="Direct link to Version 1.202.51" title="Direct link to Version 1.202.51" href="https://docs.codety.io/release-notes/2024-06-release-notes#version-120251">​</a></h3>
+<ul>
+<li>Updated Javascript ruleset.</li>
+<li>Updated Python ruleset.</li>
+<li>Released Codety Developer Hub.</li>
+</ul>]]></content>
+        <author>
+            <name>Codety</name>
+        </author>
+        <category label="Codety" term="Codety"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apr 2024, Release Notes]]></title>
+        <id>https://docs.codety.io/release-notes/2024-02-release-notes</id>
+        <link href="https://docs.codety.io/release-notes/2024-02-release-notes"/>
+        <updated>2024-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Version 1.200.10]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120010">Version 1.200.10<a class="hash-link" aria-label="Direct link to Version 1.200.10" title="Direct link to Version 1.200.10" href="https://docs.codety.io/release-notes/2024-02-release-notes#version-120010">​</a></h3>
+<p>🎉<!-- -->  <!-- -->🎉<!-- -->  <!-- -->🎉<!-- --> Released the Codety static code analysis solution, support 10+ programming languages(Java, Python, C/C++, Javascript, Typescript, HTML, etc.).</p>
+<p><img decoding="async" loading="lazy" alt="screenshot" src="https://docs.codety.io/assets/images/screenshot-aeab8fc1b36efa7bf9b2927fe5dd476d.png" width="2232" height="1330" class="img_ev3q"></p>
+<ul>
+<li>Added html code analysis support.</li>
+<li>Major UI updates for Codety Console.</li>
+<li>Moved the docker image to <a href="https://hub.docker.com/r/codetyio/codety" target="_blank" rel="noopener noreferrer">https://hub.docker.com/r/codetyio/codety</a></li>
+<li>Added rule detail for Java.</li>
+</ul>]]></content>
+        <author>
+            <name>Codety</name>
+        </author>
+        <category label="Codety" term="Codety"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oct 2023, Release Notes]]></title>
+        <id>https://docs.codety.io/release-notes/2023-release-notes</id>
+        <link href="https://docs.codety.io/release-notes/2023-release-notes"/>
+        <updated>2023-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Version 1.104.50:]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="https://docs.codety.io/release-notes/2023-release-notes#version-110450">​</a></h3>
+<ul>
+<li>Added Codety Access Token.</li>
+<li>Added Javascript and Typescript code analyzer support.</li>
+<li>Added GitHub OAuth support.</li>
+<li>Released Docker image.</li>
+<li>Added quickstart code analysis mode.</li>
+</ul>]]></content>
+        <author>
+            <name>Codety</name>
+        </author>
+        <category label="Codety" term="Codety"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mar 2022, Release Notes]]></title>
+        <id>https://docs.codety.io/release-notes/2022-release-notes</id>
+        <link href="https://docs.codety.io/release-notes/2022-release-notes"/>
+        <updated>2022-03-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Version 1.101.63:]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="https://docs.codety.io/release-notes/2022-release-notes#version-110163">​</a></h3>
+<ul>
+<li>Implemented the first version of ruleset management console.</li>
+<li>Added C and C++ code analyzer support.</li>
+<li>Added Python code analyzer support.</li>
+<li>Ruleset customization support.</li>
+</ul>]]></content>
+        <author>
+            <name>Tony Sun</name>
+        </author>
+        <category label="Codety" term="Codety"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 2021, Release Notes]]></title>
+        <id>https://docs.codety.io/release-notes/2021-release-notes</id>
+        <link href="https://docs.codety.io/release-notes/2021-release-notes"/>
+        <updated>2021-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Proof of Concept implementation:]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="proof-of-concept-implementation">Proof of Concept implementation:<a class="hash-link" aria-label="Direct link to Proof of Concept implementation:" title="Direct link to Proof of Concept implementation:" href="https://docs.codety.io/release-notes/2021-release-notes#proof-of-concept-implementation">​</a></h3>
+<ul>
+<li>Support Java static code analysis.</li>
+<li>Support cloud native applications.</li>
+<li>Support mainstream CI/CD compute environment.</li>
+</ul>]]></content>
+        <author>
+            <name>Tony Sun</name>
+        </author>
+        <category label="Codety" term="Codety"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aug 2020, Release Notes]]></title>
+        <id>https://docs.codety.io/release-notes/2020-release-notes</id>
+        <link href="https://docs.codety.io/release-notes/2020-release-notes"/>
+        <updated>2020-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mission of Codety]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mission-of-codety">Mission of Codety<a class="hash-link" aria-label="Direct link to Mission of Codety" title="Direct link to Mission of Codety" href="https://docs.codety.io/release-notes/2020-release-notes#mission-of-codety">​</a></h2>
+<p>Codety aims to provide a scalable static code analysis solution that helps engineering teams prioritize early testing, continuous integration, and collaboration for quality and efficiency. Our solution offers the ability to detect and fix issues early, resulting in higher quality software, reduced costs, and faster delivery times.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="code-quality-insights">Code quality insights<a class="hash-link" aria-label="Direct link to Code quality insights" title="Direct link to Code quality insights" href="https://docs.codety.io/release-notes/2020-release-notes#code-quality-insights">​</a></h2>
+<p>In today's fast-paced software development environment, ensuring high code quality is not just a best practice — it's a necessity.</p>
+<ol>
+<li>
+<p>Early Bug Detection: Finding and fixing bugs earlier in the development process is less costly and time-consuming than addressing them later. Early detection also reduces the risk of defects making it to production.</p>
+</li>
+<li>
+<p>Improved Quality: Continuous testing and feedback loops lead to higher quality software, as issues are addressed promptly and consistently.</p>
+</li>
+<li>
+<p>Faster Time-to-Market: By identifying and resolving issues early, the development process becomes more efficient, reducing delays and accelerating the time-to-market.</p>
+</li>
+<li>
+<p>Reduced Costs: Addressing defects early in the development lifecycle is significantly cheaper than fixing them post-release. This leads to overall cost savings for the project.</p>
+</li>
+<li>
+<p>Enhanced Collaboration: A shift-left approach fosters better communication and collaboration among team members, leading to a more cohesive and productive development environment.</p>
+</li>
+</ol>
+<p>Code quality is crucial because it directly impacts the reliability, maintainability, and performance of software. High-quality code reduces the likelihood of bugs and security vulnerabilities, making the software more stable and secure. It also facilitates easier updates and enhancements, saving time and costs in the long run. Moreover, well-written code improves collaboration among developers, as it is easier to understand, review, and modify. Ensuring high code quality ultimately leads to better user experiences and faster delivery of new features and fixes.</p>]]></content>
+        <author>
+            <name>Tony Sun</name>
+        </author>
+        <category label="Codety" term="Codety"/>
+    </entry>
+</feed>
