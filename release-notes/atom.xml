@@ -22,7 +22,6 @@
         <author>
             <name>Codety</name>
         </author>
-        <category label="Codety" term="Codety"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apr 2024, Release Notes]]></title>
@@ -42,7 +41,6 @@
         <author>
             <name>Codety</name>
         </author>
-        <category label="Codety" term="Codety"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oct 2023, Release Notes]]></title>
@@ -61,7 +59,6 @@
         <author>
             <name>Codety</name>
         </author>
-        <category label="Codety" term="Codety"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mar 2022, Release Notes]]></title>
@@ -79,7 +76,6 @@
         <author>
             <name>Codety</name>
         </author>
-        <category label="Codety" term="Codety"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[May 2021, Release Notes]]></title>
@@ -96,7 +92,6 @@
         <author>
             <name>Codety</name>
         </author>
-        <category label="Codety" term="Codety"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aug 2020, Release Notes]]></title>
@@ -129,6 +124,5 @@
         <author>
             <name>Codety</name>
         </author>
-        <category label="Codety" term="Codety"/>
     </entry>
 </feed>

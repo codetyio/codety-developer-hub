@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodety_docs=self.webpackChunkcodety_docs||[]).push([[7702],{6640:e=>{e.exports=JSON.parse('{"tags":[{"label":"Codety","permalink":"/release-notes/tags/codety","description":"Codety","count":6}]}')}}]);

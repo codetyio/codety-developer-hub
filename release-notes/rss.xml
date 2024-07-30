@@ -20,7 +20,6 @@
 <li>Updated Python ruleset.</li>
 <li>Released Codety Developer Hub.</li>
 </ul>]]></content:encoded>
-            <category>Codety</category>
         </item>
         <item>
             <title><![CDATA[Apr 2024, Release Notes]]></title>
@@ -37,7 +36,6 @@
 <li>Moved the docker image to <a href="https://hub.docker.com/r/codetyio/codety" target="_blank" rel="noopener noreferrer">https://hub.docker.com/r/codetyio/codety</a></li>
 <li>Added rule detail for Java.</li>
 </ul>]]></content:encoded>
-            <category>Codety</category>
         </item>
         <item>
             <title><![CDATA[Oct 2023, Release Notes]]></title>
@@ -53,7 +51,6 @@
 <li>Released Docker image.</li>
 <li>Added quickstart code analysis mode.</li>
 </ul>]]></content:encoded>
-            <category>Codety</category>
         </item>
         <item>
             <title><![CDATA[Mar 2022, Release Notes]]></title>
@@ -68,7 +65,6 @@
 <li>Added Python code analyzer support.</li>
 <li>Ruleset customization support.</li>
 </ul>]]></content:encoded>
-            <category>Codety</category>
         </item>
         <item>
             <title><![CDATA[May 2021, Release Notes]]></title>
@@ -82,7 +78,6 @@
 <li>Support cloud native applications.</li>
 <li>Support mainstream CI/CD compute environment.</li>
 </ul>]]></content:encoded>
-            <category>Codety</category>
         </item>
         <item>
             <title><![CDATA[Aug 2020, Release Notes]]></title>
@@ -112,7 +107,6 @@
 </li>
 </ol>
 <p>Code quality is crucial because it directly impacts the reliability, maintainability, and performance of software. High-quality code reduces the likelihood of bugs and security vulnerabilities, making the software more stable and secure. It also facilitates easier updates and enhancements, saving time and costs in the long run. Moreover, well-written code improves collaboration among developers, as it is easier to understand, review, and modify. Ensuring high code quality ultimately leads to better user experiences and faster delivery of new features and fixes.</p>]]></content:encoded>
-            <category>Codety</category>
         </item>
     </channel>
 </rss>
