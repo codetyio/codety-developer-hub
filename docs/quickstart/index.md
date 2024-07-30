@@ -8,7 +8,7 @@ Let's discover Codety in less than 5 minutes.
 
 :::tip tip
 
-This guide allows you to run static code analysis using Codety Analyzer for your code repository with default settings.
+This guide allows you to run static code analysis using Codety Analyzer for your code repositories with default settings.
 
 :::
 
