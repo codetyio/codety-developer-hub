@@ -91,15 +91,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Documentation',
-                to: '/docs/quickstart',
-              },
-            ],
-          },
+
           {
             title: 'Links',
             items: [
@@ -118,7 +110,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Release Log',
+                label: 'Release Notes',
                 to: '/release-notes',
               },
 
