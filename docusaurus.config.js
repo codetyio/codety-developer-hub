@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Codety Developer Hub',
-  tagline: 'Adopt code quality standards for your team',
+  tagline: 'Adopt code quality standards for engineering teams',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
