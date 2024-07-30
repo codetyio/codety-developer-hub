@@ -1,7 +1,7 @@
 ---
 slug: 2022-release-notes
 title: Mar 2022, Release Notes
-authors: [tsun]
+authors: [codety]
 tags: [codety]
 ---
 

@@ -1,9 +1,7 @@
 ---
 slug: 2020-release-notes
 title: Aug 2020, Release Notes
-authors:
-  name: Tony Sun
-  title: Founder
+authors: [codety]
 tags: [codety]
 ---
 

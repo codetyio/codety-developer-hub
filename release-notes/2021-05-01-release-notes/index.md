@@ -1,7 +1,7 @@
 ---
 slug: 2021-release-notes
 title: May 2021, Release Notes
-authors: [tsun]
+authors: [codety]
 tags: [codety]
 ---
 
