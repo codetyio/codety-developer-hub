@@ -1,6 +1,6 @@
 ---
 slug: 2023-release-notes
-title: Oct 2023, Release Notes
+title: Jul 2023, Release Notes
 authors: [codety]
 tags: [ ]
 ---
@@ -9,5 +9,3 @@ tags: [ ]
 * Added Codety Access Token.
 * Added Javascript and Typescript code analyzer support.
 * Added GitHub OAuth support.
-* Released Docker image.
-* Added quickstart code analysis mode.
