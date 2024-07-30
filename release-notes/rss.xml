@@ -28,14 +28,13 @@
             <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.200.10]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120010">Version 1.200.10<a class="hash-link" aria-label="Direct link to Version 1.200.10" title="Direct link to Version 1.200.10" href="http://docs.codety.io/release-notes/2024-04-release-notes#version-120010">​</a></h3>
-<p>🎉<!-- -->  <!-- -->🎉<!-- -->  <!-- -->🎉<!-- --> Released the Codety static code analysis solution, support 10+ programming languages(Java, Python, C/C++, Javascript, Typescript, HTML, etc.).</p>
-<p><img decoding="async" loading="lazy" alt="screenshot" src="http://docs.codety.io/assets/images/screenshot-aeab8fc1b36efa7bf9b2927fe5dd476d.png" width="2232" height="1330" class="img_ev3q"></p>
 <ul>
+<li>🎉<!-- -->  <!-- -->🎉<!-- -->  <!-- -->🎉<!-- --> Major UI updates for Codety Console.</li>
 <li>Added html code analysis support.</li>
-<li>Major UI updates for Codety Console.</li>
-<li>Moved the docker image to <a href="https://hub.docker.com/r/codetyio/codety" target="_blank" rel="noopener noreferrer">https://hub.docker.com/r/codetyio/codety</a></li>
 <li>Added rule detail for Java.</li>
-</ul>]]></content:encoded>
+<li>Moved the docker image to <a href="https://hub.docker.com/r/codetyio/codety" target="_blank" rel="noopener noreferrer">https://hub.docker.com/r/codetyio/codety</a></li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="screenshot" src="http://docs.codety.io/assets/images/screenshot-aeab8fc1b36efa7bf9b2927fe5dd476d.png" width="2232" height="1330" class="img_ev3q"></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Oct 2023, Release Notes]]></title>
