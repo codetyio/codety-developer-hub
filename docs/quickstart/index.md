@@ -4,10 +4,7 @@ sidebar_position: 1
 
 # Codety Quickstart
 
-
 Let's discover Codety in less than 5 minutes.
-
-### Overview
 
 :::tip tip
 
