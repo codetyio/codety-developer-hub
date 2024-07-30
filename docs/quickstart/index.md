@@ -14,9 +14,9 @@ This guide allows you to run static code analysis using Codety Analyzer for your
 
 |                                                              | Create Codety Account | Codety Access Token | Deploy Codety Product |
 |--------------------------------------------------------------|-----------------------|---------------------|-----------------------|
-| vvvvvvvvvvvvvvvvvv <br/> **Codety QuickStart** <br/> ^^^^^^^^^^^^^^^ | Not Required          | Not Required        | Not Required          |
-| Codety Cloud-Hosted                                          | Required            | Required          | Not Required          |
-| Codety Self-Hosted                                           | Required            | Required          | Required            |
+| vvvvvvvvvvvvvvvvvv <br/> **Codety QuickStart** <br/> ^^^^^^^^^^^^^^^ | **Not Required**      | **Not Required**    | **Not Required**      |
+| Codety Cloud-Hosted                                          | Required              | Required            | Not Required          |
+| Codety Self-Hosted                                           | Required              | Required            | Required              |
 
 Get started by using Codety Analyzer container image with your CI/CD pipeline directly.
 
