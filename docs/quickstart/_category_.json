@@ -2,7 +2,7 @@
   "label": "Quickstart",
   "position": 1,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Codety concepts."
+    "type": "generated-index"
+    ,"description": "5 minutes to learn the Codety concepts."
   }
 }
