@@ -47,7 +47,7 @@ const config = {
             'https://github.com/codetyio/codety-developer-hub/tree/main/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           path: 'release-notes',
           routeBasePath: 'release-notes',
           blogSidebarCount: 'ALL',
