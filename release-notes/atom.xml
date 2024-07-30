@@ -50,11 +50,38 @@
         <summary type="html"><![CDATA[Version 1.104.50:]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="http://docs.codety.io/release-notes/2023-release-notes#version-110450">​</a></h3>
 <ul>
-<li>Added Codety Access Token.</li>
-<li>Added Javascript and Typescript code analyzer support.</li>
-<li>Added GitHub OAuth support.</li>
 <li>Released Docker image.</li>
 <li>Added quickstart code analysis mode.</li>
+</ul>]]></content>
+        <author>
+            <name>Codety</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jul 2023, Release Notes]]></title>
+        <id>http://docs.codety.io/release-notes/2023-release-notes</id>
+        <link href="http://docs.codety.io/release-notes/2023-release-notes"/>
+        <updated>2023-07-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Version 1.104.50:]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="http://docs.codety.io/release-notes/2023-release-notes#version-110450">​</a></h3>
+<ul>
+<li>Released Docker image.</li>
+<li>Added quickstart code analysis mode.</li>
+</ul>]]></content>
+        <author>
+            <name>Codety</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nov 2022, Release Notes]]></title>
+        <id>http://docs.codety.io/release-notes/2022-release-notes</id>
+        <link href="http://docs.codety.io/release-notes/2022-release-notes"/>
+        <updated>2022-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Version 1.101.63:]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="http://docs.codety.io/release-notes/2022-release-notes#version-110163">​</a></h3>
+<ul>
+<li>Added Python code analyzer support.</li>
+<li>Ruleset customization support.</li>
 </ul>]]></content>
         <author>
             <name>Codety</name>
@@ -68,8 +95,6 @@
         <summary type="html"><![CDATA[Version 1.101.63:]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="http://docs.codety.io/release-notes/2022-release-notes#version-110163">​</a></h3>
 <ul>
-<li>Implemented the first version of ruleset management console.</li>
-<li>Added C and C++ code analyzer support.</li>
 <li>Added Python code analyzer support.</li>
 <li>Ruleset customization support.</li>
 </ul>]]></content>
