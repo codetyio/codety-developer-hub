@@ -2,7 +2,7 @@
 slug: 2024-06-release-notes
 title: Jun 2024, Release Notes
 authors: codety
-tags: [codety]
+tags: [ ]
 ---
 
 ### Version 1.202.51

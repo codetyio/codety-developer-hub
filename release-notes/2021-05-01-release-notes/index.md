@@ -2,7 +2,7 @@
 slug: 2021-release-notes
 title: May 2021, Release Notes
 authors: [codety]
-tags: [codety]
+tags: [ ]
 ---
 
 ### Proof of Concept implementation:

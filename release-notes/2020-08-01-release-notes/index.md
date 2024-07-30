@@ -2,7 +2,7 @@
 slug: 2020-release-notes
 title: Aug 2020, Release Notes
 authors: [codety]
-tags: [codety]
+tags: [ ]
 ---
 
 ## Mission of Codety

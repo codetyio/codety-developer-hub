@@ -2,7 +2,7 @@
 slug: 2023-release-notes
 title: Oct 2023, Release Notes
 authors: [codety]
-tags: [codety]
+tags: [ ]
 ---
 
 ### Version 1.104.50:
