@@ -28,3 +28,6 @@ jobs:
 
 ```
 The Codety Analyzer will be triggered when there's a new pull request been created or updated. 
+
+The review comments will be automatically added/updated once the Codety Analyzer job is done:
+![screenshot](./github-1.png)
