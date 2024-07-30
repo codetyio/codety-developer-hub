@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Codety Developer Hub Blog</title>
-        <link>https://docs.codety.io/release-notes</link>
+        <link>http://docs.codety.io/release-notes</link>
         <description>Codety Developer Hub Blog</description>
         <lastBuildDate>Sun, 02 Jun 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,11 +10,11 @@
         <language>en</language>
         <item>
             <title><![CDATA[Jun 2024, Release Notes]]></title>
-            <link>https://docs.codety.io/release-notes/2024-06-release-notes</link>
-            <guid>https://docs.codety.io/release-notes/2024-06-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2024-06-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2024-06-release-notes</guid>
             <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.202.51]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120251">Version 1.202.51<a class="hash-link" aria-label="Direct link to Version 1.202.51" title="Direct link to Version 1.202.51" href="https://docs.codety.io/release-notes/2024-06-release-notes#version-120251">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120251">Version 1.202.51<a class="hash-link" aria-label="Direct link to Version 1.202.51" title="Direct link to Version 1.202.51" href="http://docs.codety.io/release-notes/2024-06-release-notes#version-120251">​</a></h3>
 <ul>
 <li>Updated Javascript ruleset.</li>
 <li>Updated Python ruleset.</li>
@@ -24,13 +24,13 @@
         </item>
         <item>
             <title><![CDATA[Apr 2024, Release Notes]]></title>
-            <link>https://docs.codety.io/release-notes/2024-02-release-notes</link>
-            <guid>https://docs.codety.io/release-notes/2024-02-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2024-02-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2024-02-release-notes</guid>
             <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.200.10]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120010">Version 1.200.10<a class="hash-link" aria-label="Direct link to Version 1.200.10" title="Direct link to Version 1.200.10" href="https://docs.codety.io/release-notes/2024-02-release-notes#version-120010">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120010">Version 1.200.10<a class="hash-link" aria-label="Direct link to Version 1.200.10" title="Direct link to Version 1.200.10" href="http://docs.codety.io/release-notes/2024-02-release-notes#version-120010">​</a></h3>
 <p>🎉<!-- -->  <!-- -->🎉<!-- -->  <!-- -->🎉<!-- --> Released the Codety static code analysis solution, support 10+ programming languages(Java, Python, C/C++, Javascript, Typescript, HTML, etc.).</p>
-<p><img decoding="async" loading="lazy" alt="screenshot" src="https://docs.codety.io/assets/images/screenshot-aeab8fc1b36efa7bf9b2927fe5dd476d.png" width="2232" height="1330" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="screenshot" src="http://docs.codety.io/assets/images/screenshot-aeab8fc1b36efa7bf9b2927fe5dd476d.png" width="2232" height="1330" class="img_ev3q"></p>
 <ul>
 <li>Added html code analysis support.</li>
 <li>Major UI updates for Codety Console.</li>
@@ -41,11 +41,11 @@
         </item>
         <item>
             <title><![CDATA[Oct 2023, Release Notes]]></title>
-            <link>https://docs.codety.io/release-notes/2023-release-notes</link>
-            <guid>https://docs.codety.io/release-notes/2023-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2023-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2023-release-notes</guid>
             <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.104.50:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="https://docs.codety.io/release-notes/2023-release-notes#version-110450">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="http://docs.codety.io/release-notes/2023-release-notes#version-110450">​</a></h3>
 <ul>
 <li>Added Codety Access Token.</li>
 <li>Added Javascript and Typescript code analyzer support.</li>
@@ -57,11 +57,11 @@
         </item>
         <item>
             <title><![CDATA[Mar 2022, Release Notes]]></title>
-            <link>https://docs.codety.io/release-notes/2022-release-notes</link>
-            <guid>https://docs.codety.io/release-notes/2022-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2022-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2022-release-notes</guid>
             <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.101.63:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="https://docs.codety.io/release-notes/2022-release-notes#version-110163">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="http://docs.codety.io/release-notes/2022-release-notes#version-110163">​</a></h3>
 <ul>
 <li>Implemented the first version of ruleset management console.</li>
 <li>Added C and C++ code analyzer support.</li>
@@ -72,11 +72,11 @@
         </item>
         <item>
             <title><![CDATA[May 2021, Release Notes]]></title>
-            <link>https://docs.codety.io/release-notes/2021-release-notes</link>
-            <guid>https://docs.codety.io/release-notes/2021-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2021-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2021-release-notes</guid>
             <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Proof of Concept implementation:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="proof-of-concept-implementation">Proof of Concept implementation:<a class="hash-link" aria-label="Direct link to Proof of Concept implementation:" title="Direct link to Proof of Concept implementation:" href="https://docs.codety.io/release-notes/2021-release-notes#proof-of-concept-implementation">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="proof-of-concept-implementation">Proof of Concept implementation:<a class="hash-link" aria-label="Direct link to Proof of Concept implementation:" title="Direct link to Proof of Concept implementation:" href="http://docs.codety.io/release-notes/2021-release-notes#proof-of-concept-implementation">​</a></h3>
 <ul>
 <li>Support Java static code analysis.</li>
 <li>Support cloud native applications.</li>
@@ -86,13 +86,13 @@
         </item>
         <item>
             <title><![CDATA[Aug 2020, Release Notes]]></title>
-            <link>https://docs.codety.io/release-notes/2020-release-notes</link>
-            <guid>https://docs.codety.io/release-notes/2020-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2020-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2020-release-notes</guid>
             <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Mission of Codety]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mission-of-codety">Mission of Codety<a class="hash-link" aria-label="Direct link to Mission of Codety" title="Direct link to Mission of Codety" href="https://docs.codety.io/release-notes/2020-release-notes#mission-of-codety">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mission-of-codety">Mission of Codety<a class="hash-link" aria-label="Direct link to Mission of Codety" title="Direct link to Mission of Codety" href="http://docs.codety.io/release-notes/2020-release-notes#mission-of-codety">​</a></h2>
 <p>Codety aims to provide a scalable static code analysis solution that helps engineering teams prioritize early testing, continuous integration, and collaboration for quality and efficiency. Our solution offers the ability to detect and fix issues early, resulting in higher quality software, reduced costs, and faster delivery times.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="code-quality-insights">Code quality insights<a class="hash-link" aria-label="Direct link to Code quality insights" title="Direct link to Code quality insights" href="https://docs.codety.io/release-notes/2020-release-notes#code-quality-insights">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="code-quality-insights">Code quality insights<a class="hash-link" aria-label="Direct link to Code quality insights" title="Direct link to Code quality insights" href="http://docs.codety.io/release-notes/2020-release-notes#code-quality-insights">​</a></h2>
 <p>In today's fast-paced software development environment, ensuring high code quality is not just a best practice — it's a necessity.</p>
 <ol>
 <li>
