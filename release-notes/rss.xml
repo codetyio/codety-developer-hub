@@ -25,7 +25,7 @@
             <title><![CDATA[Apr 2024, Release Notes]]></title>
             <link>http://docs.codety.io/release-notes/2024-02-release-notes</link>
             <guid>http://docs.codety.io/release-notes/2024-02-release-notes</guid>
-            <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.200.10]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120010">Version 1.200.10<a class="hash-link" aria-label="Direct link to Version 1.200.10" title="Direct link to Version 1.200.10" href="http://docs.codety.io/release-notes/2024-02-release-notes#version-120010">​</a></h3>
 <p>🎉<!-- -->  <!-- -->🎉<!-- -->  <!-- -->🎉<!-- --> Released the Codety static code analysis solution, support 10+ programming languages(Java, Python, C/C++, Javascript, Typescript, HTML, etc.).</p>
@@ -41,7 +41,7 @@
             <title><![CDATA[Oct 2023, Release Notes]]></title>
             <link>http://docs.codety.io/release-notes/2023-release-notes</link>
             <guid>http://docs.codety.io/release-notes/2023-release-notes</guid>
-            <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.104.50:]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="http://docs.codety.io/release-notes/2023-release-notes#version-110450">​</a></h3>
 <ul>
@@ -56,7 +56,7 @@
             <title><![CDATA[Mar 2022, Release Notes]]></title>
             <link>http://docs.codety.io/release-notes/2022-release-notes</link>
             <guid>http://docs.codety.io/release-notes/2022-release-notes</guid>
-            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.101.63:]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="http://docs.codety.io/release-notes/2022-release-notes#version-110163">​</a></h3>
 <ul>
@@ -70,7 +70,7 @@
             <title><![CDATA[May 2021, Release Notes]]></title>
             <link>http://docs.codety.io/release-notes/2021-release-notes</link>
             <guid>http://docs.codety.io/release-notes/2021-release-notes</guid>
-            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Proof of Concept implementation:]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="proof-of-concept-implementation">Proof of Concept implementation:<a class="hash-link" aria-label="Direct link to Proof of Concept implementation:" title="Direct link to Proof of Concept implementation:" href="http://docs.codety.io/release-notes/2021-release-notes#proof-of-concept-implementation">​</a></h3>
 <ul>
@@ -83,7 +83,7 @@
             <title><![CDATA[Aug 2020, Release Notes]]></title>
             <link>http://docs.codety.io/release-notes/2020-release-notes</link>
             <guid>http://docs.codety.io/release-notes/2020-release-notes</guid>
-            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Mission of Codety]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mission-of-codety">Mission of Codety<a class="hash-link" aria-label="Direct link to Mission of Codety" title="Direct link to Mission of Codety" href="http://docs.codety.io/release-notes/2020-release-notes#mission-of-codety">​</a></h2>
 <p>Codety aims to provide a scalable static code analysis solution that helps engineering teams prioritize early testing, continuous integration, and collaboration for quality and efficiency. Our solution offers the ability to detect and fix issues early, resulting in higher quality software, reduced costs, and faster delivery times.</p>

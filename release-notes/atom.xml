@@ -27,7 +27,7 @@
         <title type="html"><![CDATA[Apr 2024, Release Notes]]></title>
         <id>http://docs.codety.io/release-notes/2024-02-release-notes</id>
         <link href="http://docs.codety.io/release-notes/2024-02-release-notes"/>
-        <updated>2024-04-01T00:00:00.000Z</updated>
+        <updated>2024-04-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Version 1.200.10]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120010">Version 1.200.10<a class="hash-link" aria-label="Direct link to Version 1.200.10" title="Direct link to Version 1.200.10" href="http://docs.codety.io/release-notes/2024-02-release-notes#version-120010">​</a></h3>
 <p>🎉<!-- -->  <!-- -->🎉<!-- -->  <!-- -->🎉<!-- --> Released the Codety static code analysis solution, support 10+ programming languages(Java, Python, C/C++, Javascript, Typescript, HTML, etc.).</p>
@@ -46,7 +46,7 @@
         <title type="html"><![CDATA[Oct 2023, Release Notes]]></title>
         <id>http://docs.codety.io/release-notes/2023-release-notes</id>
         <link href="http://docs.codety.io/release-notes/2023-release-notes"/>
-        <updated>2023-10-01T00:00:00.000Z</updated>
+        <updated>2023-10-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Version 1.104.50:]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="http://docs.codety.io/release-notes/2023-release-notes#version-110450">​</a></h3>
 <ul>
@@ -64,7 +64,7 @@
         <title type="html"><![CDATA[Mar 2022, Release Notes]]></title>
         <id>http://docs.codety.io/release-notes/2022-release-notes</id>
         <link href="http://docs.codety.io/release-notes/2022-release-notes"/>
-        <updated>2022-03-01T00:00:00.000Z</updated>
+        <updated>2022-03-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Version 1.101.63:]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="http://docs.codety.io/release-notes/2022-release-notes#version-110163">​</a></h3>
 <ul>
@@ -81,7 +81,7 @@
         <title type="html"><![CDATA[May 2021, Release Notes]]></title>
         <id>http://docs.codety.io/release-notes/2021-release-notes</id>
         <link href="http://docs.codety.io/release-notes/2021-release-notes"/>
-        <updated>2021-05-01T00:00:00.000Z</updated>
+        <updated>2021-05-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Proof of Concept implementation:]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="proof-of-concept-implementation">Proof of Concept implementation:<a class="hash-link" aria-label="Direct link to Proof of Concept implementation:" title="Direct link to Proof of Concept implementation:" href="http://docs.codety.io/release-notes/2021-release-notes#proof-of-concept-implementation">​</a></h3>
 <ul>
@@ -97,7 +97,7 @@
         <title type="html"><![CDATA[Aug 2020, Release Notes]]></title>
         <id>http://docs.codety.io/release-notes/2020-release-notes</id>
         <link href="http://docs.codety.io/release-notes/2020-release-notes"/>
-        <updated>2020-08-01T00:00:00.000Z</updated>
+        <updated>2020-08-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Mission of Codety]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mission-of-codety">Mission of Codety<a class="hash-link" aria-label="Direct link to Mission of Codety" title="Direct link to Mission of Codety" href="http://docs.codety.io/release-notes/2020-release-notes#mission-of-codety">​</a></h2>
 <p>Codety aims to provide a scalable static code analysis solution that helps engineering teams prioritize early testing, continuous integration, and collaboration for quality and efficiency. Our solution offers the ability to detect and fix issues early, resulting in higher quality software, reduced costs, and faster delivery times.</p>
