@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/codetyio/codety-developer-hub',
+            'https://github.com/codetyio/codety-developer-hub/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -53,8 +53,7 @@ const config = {
           blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/codetyio/codety-developer-hub',
+//          editUrl: 'https://github.com/codetyio/codety-developer-hub',
         },
         theme: {
           customCss: './src/css/custom.css',
