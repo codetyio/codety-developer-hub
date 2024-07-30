@@ -21,11 +21,11 @@ This guide allows you to run static code analysis using Codety Analyzer for your
 Get started by using Codety Analyzer container image with your CI/CD pipeline directly.
 
 ### Start using it
-* [Quickstart with GitHub Actions](quickstart/github-actions)
-* [Quickstart with GitLab CI](quickstart/gitlab-ci)
-* [Quickstart with Harness CI](quickstart/harness-ci)
-* [Quickstart with Circle CI](quickstart/circleci)
-* [Quickstart with Bitbucket CI](quickstart/bitbucket)
+* [Quickstart with GitHub Actions](github-actions)
+* [Quickstart with GitLab CI](gitlab-ci)
+* [Quickstart with Harness CI](harness-ci)
+* [Quickstart with Circle CI](circleci)
+* [Quickstart with Bitbucket CI](bitbucket)
 
 ### Next step
 
