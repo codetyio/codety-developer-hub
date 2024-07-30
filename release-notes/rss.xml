@@ -23,11 +23,11 @@
         </item>
         <item>
             <title><![CDATA[Apr 2024, Release Notes]]></title>
-            <link>http://docs.codety.io/release-notes/2024-02-release-notes</link>
-            <guid>http://docs.codety.io/release-notes/2024-02-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2024-04-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2024-04-release-notes</guid>
             <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.200.10]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120010">Version 1.200.10<a class="hash-link" aria-label="Direct link to Version 1.200.10" title="Direct link to Version 1.200.10" href="http://docs.codety.io/release-notes/2024-02-release-notes#version-120010">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120010">Version 1.200.10<a class="hash-link" aria-label="Direct link to Version 1.200.10" title="Direct link to Version 1.200.10" href="http://docs.codety.io/release-notes/2024-04-release-notes#version-120010">​</a></h3>
 <p>🎉<!-- -->  <!-- -->🎉<!-- -->  <!-- -->🎉<!-- --> Released the Codety static code analysis solution, support 10+ programming languages(Java, Python, C/C++, Javascript, Typescript, HTML, etc.).</p>
 <p><img decoding="async" loading="lazy" alt="screenshot" src="http://docs.codety.io/assets/images/screenshot-aeab8fc1b36efa7bf9b2927fe5dd476d.png" width="2232" height="1330" class="img_ev3q"></p>
 <ul>
@@ -39,11 +39,11 @@
         </item>
         <item>
             <title><![CDATA[Oct 2023, Release Notes]]></title>
-            <link>http://docs.codety.io/release-notes/2023-release-notes</link>
-            <guid>http://docs.codety.io/release-notes/2023-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2023-10-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2023-10-release-notes</guid>
             <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.104.50:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="http://docs.codety.io/release-notes/2023-release-notes#version-110450">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="http://docs.codety.io/release-notes/2023-10-release-notes#version-110450">​</a></h3>
 <ul>
 <li>Released Docker image.</li>
 <li>Added quickstart code analysis mode.</li>
@@ -51,23 +51,24 @@
         </item>
         <item>
             <title><![CDATA[Jul 2023, Release Notes]]></title>
-            <link>http://docs.codety.io/release-notes/2023-release-notes</link>
-            <guid>http://docs.codety.io/release-notes/2023-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2023-07-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2023-07-release-notes</guid>
             <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.104.50:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="http://docs.codety.io/release-notes/2023-release-notes#version-110450">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110450">Version 1.104.50:<a class="hash-link" aria-label="Direct link to Version 1.104.50:" title="Direct link to Version 1.104.50:" href="http://docs.codety.io/release-notes/2023-07-release-notes#version-110450">​</a></h3>
 <ul>
-<li>Released Docker image.</li>
-<li>Added quickstart code analysis mode.</li>
+<li>Added Codety Access Token.</li>
+<li>Added Javascript and Typescript code analyzer support.</li>
+<li>Added GitHub OAuth support.</li>
 </ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Nov 2022, Release Notes]]></title>
-            <link>http://docs.codety.io/release-notes/2022-release-notes</link>
-            <guid>http://docs.codety.io/release-notes/2022-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2022-11-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2022-11-release-notes</guid>
             <pubDate>Sat, 12 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.101.63:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="http://docs.codety.io/release-notes/2022-release-notes#version-110163">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="http://docs.codety.io/release-notes/2022-11-release-notes#version-110163">​</a></h3>
 <ul>
 <li>Added Python code analyzer support.</li>
 <li>Ruleset customization support.</li>
@@ -75,23 +76,23 @@
         </item>
         <item>
             <title><![CDATA[Mar 2022, Release Notes]]></title>
-            <link>http://docs.codety.io/release-notes/2022-release-notes</link>
-            <guid>http://docs.codety.io/release-notes/2022-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2022-03-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2022-03-release-notes</guid>
             <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Version 1.101.63:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="http://docs.codety.io/release-notes/2022-release-notes#version-110163">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-110163">Version 1.101.63:<a class="hash-link" aria-label="Direct link to Version 1.101.63:" title="Direct link to Version 1.101.63:" href="http://docs.codety.io/release-notes/2022-03-release-notes#version-110163">​</a></h3>
 <ul>
-<li>Added Python code analyzer support.</li>
-<li>Ruleset customization support.</li>
+<li>Implemented the first version of ruleset management console.</li>
+<li>Added C and C++ code analyzer support.</li>
 </ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[May 2021, Release Notes]]></title>
-            <link>http://docs.codety.io/release-notes/2021-release-notes</link>
-            <guid>http://docs.codety.io/release-notes/2021-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2021-05-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2021-05-release-notes</guid>
             <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Proof of Concept implementation:]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="proof-of-concept-implementation">Proof of Concept implementation:<a class="hash-link" aria-label="Direct link to Proof of Concept implementation:" title="Direct link to Proof of Concept implementation:" href="http://docs.codety.io/release-notes/2021-release-notes#proof-of-concept-implementation">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="proof-of-concept-implementation">Proof of Concept implementation:<a class="hash-link" aria-label="Direct link to Proof of Concept implementation:" title="Direct link to Proof of Concept implementation:" href="http://docs.codety.io/release-notes/2021-05-release-notes#proof-of-concept-implementation">​</a></h3>
 <ul>
 <li>Support Java static code analysis.</li>
 <li>Support cloud native applications.</li>
@@ -100,13 +101,13 @@
         </item>
         <item>
             <title><![CDATA[Aug 2020, Release Notes]]></title>
-            <link>http://docs.codety.io/release-notes/2020-release-notes</link>
-            <guid>http://docs.codety.io/release-notes/2020-release-notes</guid>
+            <link>http://docs.codety.io/release-notes/2020-08-release-notes</link>
+            <guid>http://docs.codety.io/release-notes/2020-08-release-notes</guid>
             <pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Mission of Codety]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mission-of-codety">Mission of Codety<a class="hash-link" aria-label="Direct link to Mission of Codety" title="Direct link to Mission of Codety" href="http://docs.codety.io/release-notes/2020-release-notes#mission-of-codety">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mission-of-codety">Mission of Codety<a class="hash-link" aria-label="Direct link to Mission of Codety" title="Direct link to Mission of Codety" href="http://docs.codety.io/release-notes/2020-08-release-notes#mission-of-codety">​</a></h2>
 <p>Codety aims to provide a scalable static code analysis solution that helps engineering teams prioritize early testing, continuous integration, and collaboration for quality and efficiency. Our solution offers the ability to detect and fix issues early, resulting in higher quality software, reduced costs, and faster delivery times.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="code-quality-insights">Code quality insights<a class="hash-link" aria-label="Direct link to Code quality insights" title="Direct link to Code quality insights" href="http://docs.codety.io/release-notes/2020-release-notes#code-quality-insights">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="code-quality-insights">Code quality insights<a class="hash-link" aria-label="Direct link to Code quality insights" title="Direct link to Code quality insights" href="http://docs.codety.io/release-notes/2020-08-release-notes#code-quality-insights">​</a></h2>
 <p>In today's fast-paced software development environment, ensuring high code quality is not just a best practice — it's a necessity.</p>
 <ol>
 <li>
