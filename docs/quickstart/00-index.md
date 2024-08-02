@@ -12,17 +12,17 @@ Let's discover Codety in less than 5 minutes.
 Based on the above diagram, your CI/CD pipeline will be:
 1. Preparing the analysis environment
    * Checking out source code from git server
-   * Pulling Codety analyzer image from container registry server
-   * Pulling code analysis settings from Codety server (default setting will be applied if you don't set Codety Access Token)
-1. Running static code analysis according to the custom ruleset settings
-1. Assemble and distribute the result, below is an example:
+   * Pulling Codety analyzer image from container registries(e.g. Docker Hub)
+   * Pulling configurations and settings from Codety server (default setting will be applied if you don't set Codety Access Token)
+1. Conducting static code analysis according to the custom ruleset settings
+1. Assembling and distributing the result, below is an example for GitHub:
    ![screenshot](./github-1.png)
 
 
 :::tip tips
 
 * The Codety static code analysis will be running inside your CI/CD workflow, and your code will not leave your CI/CD compute environment.
-* It is suggested to trigger Codety analysis by pull/merge request events for receiving prompt and relevant code analysis result without letting code quality slip. 
+* It is recommended to trigger Codety analysis pull/merge request events to receive prompt and relevant code analysis results, ensuring code quality is maintained. 
 
 :::
 
