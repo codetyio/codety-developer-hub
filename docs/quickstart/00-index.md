@@ -6,19 +6,25 @@ sidebar_position: 1
 
 Let's discover Codety in less than 5 minutes.
 
-:::tip tip
+### Overview
+![diagram](./intro-diagram.png)
 
-This guide allows you to run static code analysis using Codety Analyzer for your code repositories with default settings.
+Based on the above diagram, your CI/CD pipeline will be:
+1. Preparing the analysis environment
+   * Checking out source code from git server
+   * Pulling Codety analyzer image from container registry server
+   * Pulling code analysis settings from Codety server (default setting will be applied if you don't set Codety Access Token)
+1. Running static code analysis according to the custom ruleset settings
+1. Assemble and distribute the result, below is an example:
+   ![screenshot](./github-1.png)
+
+
+:::tip tips
+
+* The Codety static code analysis will be running inside your CI/CD workflow, and your code will not leave your CI/CD compute environment.
+* It is suggested to trigger Codety analysis by pull/merge request events for receiving prompt and relevant code analysis result without letting code quality slip. 
 
 :::
-
-|                                                              | Create Codety Account | Codety Access Token | Deploy Codety Product |
-|--------------------------------------------------------------|-----------------------|---------------------|-----------------------|
-| vvvvvvvvvvvvvvvvvv <br/> **Codety QuickStart** <br/> ^^^^^^^^^^^^^^^ | **Not Required**      | **Not Required**    | **Not Required**      |
-| Codety Cloud-Hosted                                          | Required              | Required            | Not Required          |
-| Codety Self-Hosted                                           | Required              | Required            | Required              |
-
-Get started by using Codety Analyzer container image with your CI/CD pipeline directly.
 
 ### Start using it
 * [Quickstart with GitHub Actions](github-actions)
