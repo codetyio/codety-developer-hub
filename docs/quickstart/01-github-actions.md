@@ -3,7 +3,7 @@ title: Quickstart with GitHub Actions
 tags: [codety]
 ---
 
-Create GitHub Actions workflow referring below example:
+Add GitHub Actions workflow into your git repo, below is an example:
 ```yaml
 # .github/workflows/codety.yaml
 name: Codety

@@ -9,6 +9,13 @@ Let's discover Codety in less than 5 minutes.
 ### Overview
 ![diagram](./intro-diagram.png)
 
+:::tip tips
+
+* The Codety static code analysis will be running inside your CI/CD workflow, and your code will not leave your CI/CD compute environment.
+* It is recommended to trigger Codety analysis pull/merge request events to receive prompt and relevant code analysis results, ensuring code quality is maintained.
+
+:::
+
 Based on the above diagram, your CI/CD pipeline will be:
 1. Preparing the analysis environment
    * Checking out source code from git server
@@ -18,13 +25,6 @@ Based on the above diagram, your CI/CD pipeline will be:
 1. Assembling and distributing the result, below is an example for GitHub:
    ![screenshot](./github-1.png)
 
-
-:::tip tips
-
-* The Codety static code analysis will be running inside your CI/CD workflow, and your code will not leave your CI/CD compute environment.
-* It is recommended to trigger Codety analysis pull/merge request events to receive prompt and relevant code analysis results, ensuring code quality is maintained. 
-
-:::
 
 ### Start using it
 * [Quickstart with GitHub Actions](github-actions)
