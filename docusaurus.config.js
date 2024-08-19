@@ -34,6 +34,27 @@ const config = {
     locales: ['en'],
   },
 
+plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'codety-blog',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'codety-blog',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './codety-blog',
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -81,6 +102,7 @@ const config = {
             label: 'Documentation',
           },
           {to: '/release-notes', label: 'Release Notes', position: 'left'},
+//          {to: '/codety-blog', label: 'Blog', position: 'left'},
           {
             href: 'https://codety.io',
             label: 'Codety Website',
@@ -117,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Codety.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Codety Inc.`,
       },
       prism: {
         theme: prismThemes.github,

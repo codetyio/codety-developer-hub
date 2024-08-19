@@ -1,7 +1,7 @@
 ---
-slug: 2024-06-release-notes
-title: Jun 2024, Release Notes
-#authors: [codety]
+slug: 2024-08-01-blog
+title: Aug 1, 2024, blog
+#authors: codety
 tags: [ ]
 ---
 

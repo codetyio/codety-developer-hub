@@ -1,7 +1,7 @@
 ---
 slug: 2024-04-release-notes
 title: Apr 2024, Release Notes
-authors: codety
+#authors: [codety]
 tags: [ ]
 ---
 

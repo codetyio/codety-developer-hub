@@ -1,7 +1,7 @@
 ---
 slug: 2021-05-release-notes
 title: May 2021, Release Notes
-authors: [codety]
+#authors: [codety]
 tags: [ ]
 ---
 

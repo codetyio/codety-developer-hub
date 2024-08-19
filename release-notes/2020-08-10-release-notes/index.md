@@ -1,7 +1,7 @@
 ---
 slug: 2020-08-release-notes
 title: Aug 2020, Release Notes
-authors: [codety]
+#authors: [codety]
 tags: [ ]
 ---
 

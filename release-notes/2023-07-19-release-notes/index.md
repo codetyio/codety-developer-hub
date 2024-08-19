@@ -1,7 +1,7 @@
 ---
 slug: 2023-07-release-notes
 title: Jul 2023, Release Notes
-authors: [codety]
+#authors: [codety]
 tags: [ ]
 ---
 

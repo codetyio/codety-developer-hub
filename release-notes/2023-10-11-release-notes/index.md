@@ -1,7 +1,7 @@
 ---
 slug: 2023-10-release-notes
 title: Oct 2023, Release Notes
-authors: [codety]
+#authors: [codety]
 tags: [ ]
 ---
 
