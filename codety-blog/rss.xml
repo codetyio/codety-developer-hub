@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Codety Developer Hub Blog</title>
+        <link>http://docs.codety.io/codety-blog</link>
+        <description>Codety Developer Hub Blog</description>
+        <lastBuildDate>Sun, 02 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Aug 1, 2024, blog]]></title>
+            <link>http://docs.codety.io/codety-blog/2024-08-01-blog</link>
+            <guid>http://docs.codety.io/codety-blog/2024-08-01-blog</guid>
+            <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Version 1.202.51]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="version-120251">Version 1.202.51<a class="hash-link" aria-label="Direct link to Version 1.202.51" title="Direct link to Version 1.202.51" href="http://docs.codety.io/codety-blog/2024-08-01-blog#version-120251">​</a></h3>
+<ul>
+<li>Updated Javascript ruleset.</li>
+<li>Updated Python ruleset.</li>
+<li>Released Codety Developer Hub.</li>
+</ul>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

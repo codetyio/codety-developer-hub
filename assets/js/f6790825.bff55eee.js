@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodety_docs=self.webpackChunkcodety_docs||[]).push([[8688],{352:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"codety-blog"}')}}]);

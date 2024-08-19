@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodety_docs=self.webpackChunkcodety_docs||[]).push([[4105],{7938:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/codety-blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
