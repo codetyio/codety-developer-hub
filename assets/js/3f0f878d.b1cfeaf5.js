@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodety_docs=self.webpackChunkcodety_docs||[]).push([[2177],{4456:o=>{o.exports=JSON.parse('{"blogBasePath":"/codety-blog","blogTitle":"Blog","authorsListPath":"/codety-blog/authors"}')}}]);
