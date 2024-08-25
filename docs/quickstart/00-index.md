@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Codety Quickstart
+# Codety Scanner Quickstart
 
 Let's discover Codety in less than 5 minutes.
 
@@ -11,7 +11,7 @@ Let's discover Codety in less than 5 minutes.
 
 :::tip tips
 
-* The Codety static code analysis will be running inside your CI/CD workflow, and your code will not leave your CI/CD compute environment.
+* The Codety Scanner will be running inside your CI/CD workflow, and your code will not leave your CI/CD compute environment.
 * It is recommended to trigger Codety analysis pull/merge request events to receive prompt and relevant code analysis results, ensuring code quality is maintained.
 
 :::
