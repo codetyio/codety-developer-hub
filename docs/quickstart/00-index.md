@@ -11,8 +11,8 @@ Let's discover Codety in less than 5 minutes.
 
 :::tip tips
 
-* It is recommended to integrate Codety Scanner with your pull/merge request events for getting quick and relevant code review feedback and ensuring code quality is maintained.
-
+* It is recommended to integrate Codety Scanner with your pull request events for getting quick and relevant code review feedback and ensuring code quality is maintained.
+* 
 :::
 
 Based on the above diagram, your CI/CD pipeline will be:
