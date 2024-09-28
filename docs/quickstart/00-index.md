@@ -11,8 +11,7 @@ Let's discover Codety in less than 5 minutes.
 
 :::tip tips
 
-* The Codety Scanner will be running inside your CI/CD workflow, and your code will not leave your CI/CD compute environment.
-* It is recommended to trigger Codety analysis pull/merge request events to receive prompt and relevant code analysis results, ensuring code quality is maintained.
+* It is recommended to integrate Codety Scanner with your pull/merge request events for getting quick and relevant code review feedback and ensuring code quality is maintained.
 
 :::
 
